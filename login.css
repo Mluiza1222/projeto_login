@@ -1,5 +1,10 @@
+html, body{
+    padding: 0;
+    height: 100%;
+}
+
 body{
-    background-color: rgb(116, 116, 185);
+    background-color: rgb(169, 169, 212);
     display: flex; /*Comportamento do elemento na página*/
 }
 
@@ -11,4 +16,18 @@ body{
     align-items: center;
     width: 100%;
     height: 100%;
+}
+
+.form{
+    background-color: rgb(110, 224, 205);
+    padding: 13px;
+    padding-top: 0;
+    border-radius: 15px;
+    color: rgb(26, 26, 128);
+    box-shadow: 0 0 10px rgb(87, 87, 235);
+
+}
+
+h3{
+    text-align: center;
 }
