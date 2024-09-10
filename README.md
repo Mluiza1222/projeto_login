@@ -20,18 +20,18 @@ O projeto se consiste, basicamente, em uma tela de login, como diz o nome do pro
 
 O projeto foi estilizado usando o CSS3. Foi criando um arquivo chamado login.css. Nesse arquivo, constam conconfigurações de estilo apresentadas a seguir:
 
-* Padding
-* Height
-* Background-color
-* Display
-* Justify-content
-* Align-items
-* Width
-* Padding-top
-* Border-radius
-* Color
-* Box-shadow
-* Text-align
+* Padding - 
+* Height - 
+* Background-color -
+* Display -
+* Justify-content - 
+* Align-items -
+* Width -
+* Padding-top -
+* Border-radius -
+* Color -
+* Box-shadow - 
+* Text-align -
 
 ## Tecnologias
 
